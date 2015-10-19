@@ -18,7 +18,7 @@ namespace XF_AppCompat.Pages
 				HorizontalOptions = LayoutOptions.Center
 			});
 
-			var menuPage = new ContentPage { Content = menuPageContent, Title = "Menu Drawer"
+			var menuPage = new ContentPage { Content = menuPageContent, Title = "Menu Drawer", BackgroundColor = Color.Gray
 			};
 
 			Master = menuPage;
