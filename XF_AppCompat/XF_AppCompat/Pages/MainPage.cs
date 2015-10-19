@@ -14,7 +14,7 @@ namespace XF_AppCompat.Pages
 
 			menuPageContent.Children.Add (new Label {
 				Text = "Menu Drawer",
-				TextColor = Color.White,
+				TextColor = Color.Black,
 				HorizontalOptions = LayoutOptions.Center
 			});
 
@@ -28,7 +28,7 @@ namespace XF_AppCompat.Pages
 
 			detailPageContent.Children.Add (new Label {
 				Text = "Landing Page",
-				TextColor = Color.Aqua,
+				TextColor = Color.Black,
 				HorizontalOptions = LayoutOptions.Center
 			});
 
